@@ -4,7 +4,7 @@ body {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .5em;
-    top: 15%;
+    top: 16%;
 	background: linear-gradient(to right, red , yellow); /* Standard syntax */
 }
 
