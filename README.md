@@ -1,0 +1,2 @@
+# speech2Text
+A Rich text box if opened. A user begin to dictate, the web site begin to recognise speech and convert it to text. After the dictation ends the user begin to read the text. If somewhere he finds mistake - make a correction, but if he is unable to remember what was he thinking while speaking - the site also have a bar under the text which ilustrates the audio timeline, so the user can hear custom moment of his voice dictation. Will use  Google speech API.
